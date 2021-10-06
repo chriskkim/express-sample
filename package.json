@@ -1,0 +1,25 @@
+{
+  "name": "express-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriskkim/express-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriskkim/express-sample/issues"
+  },
+  "homepage": "https://github.com/chriskkim/express-sample#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-dev": "^7.0.0",
+    "pm2": "^5.1.2",
+    "pug": "^3.0.2"
+  }
+}
